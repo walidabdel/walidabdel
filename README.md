@@ -1,4 +1,4 @@
-## Olá! Eu sou o Walid Adel 🖐️
+## Olá! Eu sou o Walid Abdel 🖐️
 
 
  <div style="display: inline_block">
@@ -11,7 +11,7 @@
 
 💻 Sou apaixonado por tecnologia e inovação, com foco em aprendizado constante, boas práticas e desenvolvimento de soluções eficientes.
   
-
+![Walid GitHub stats](https://github-readme-stats.vercel.app/api?username=Walid&show_icons=true&theme=transparent)
  
 
 </div>
