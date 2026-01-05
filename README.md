@@ -37,7 +37,10 @@
 
 ### 🔥 Atividade no GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com?user=walidabdel&theme=transparent)
+<img
+  src="https://streak-stats.demolab.com?user=walidabdel&theme=github-dark&hide_border=true"
+  referrerpolicy="no-referrer"
+/>
 
 ---
 
