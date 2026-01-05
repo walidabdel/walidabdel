@@ -20,9 +20,18 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=walidabdel&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidabdel&layout=compact&theme=transparent"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=walidabdel&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
+    height="160"
+    referrerpolicy="no-referrer"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidabdel&layout=compact&theme=github_dark"
+    height="160"
+    referrerpolicy="no-referrer"
+  />
 </div>
+
 
 ---
 
