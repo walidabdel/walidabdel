@@ -19,9 +19,9 @@
 
 ### 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=walidabdel&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=walidabdel&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidabdel&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=walidabdel&layout=compact&theme=dark)
 
 ---
 
