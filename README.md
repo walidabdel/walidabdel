@@ -17,20 +17,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=walidabdel&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=walidabdel&layout=compact&theme=dark)
-
----
-
-### 🔥 Atividade no GitHub
-
-![GitHub Streak](https://streak-stats.demolab.com?user=walidabdel&theme=dark)
-
----
-
 ### 📌 Sobre mim
 - 🎯 Foco em evolução contínua  
 - 📚 Estudante e entusiasta de tecnologia  
