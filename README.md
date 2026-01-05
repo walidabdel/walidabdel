@@ -20,22 +20,22 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Walid&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walid&layout=compact&theme=transparent"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=walidabdel&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidabdel&layout=compact&theme=transparent"/>
 </div>
 
 ---
 
 ### 🔥 Atividade no GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Walid&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=walidabdel&theme=transparent)
 
 ---
 
 ### 📌 Sobre mim
-- 🎯 Foco em evolução contínua
-- 📚 Estudante e entusiasta de tecnologia
-- 🧠 Interesse em desenvolvimento e soluções eficientes
-- 🤝 Aberto a aprender e colaborar em projetos
+- 🎯 Foco em evolução contínua  
+- 📚 Estudante e entusiasta de tecnologia  
+- 🧠 Interesse em desenvolvimento e soluções eficientes  
+- 🤝 Aberto a aprender e colaborar em projetos  
 
 
