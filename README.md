@@ -19,28 +19,15 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=walidabdel&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
-    height="160"
-    referrerpolicy="no-referrer"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidabdel&layout=compact&theme=github_dark"
-    height="160"
-    referrerpolicy="no-referrer"
-  />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=walidabdel&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidabdel&layout=compact&theme=dark)
 
 ---
 
 ### 🔥 Atividade no GitHub
 
-<img
-  src="https://streak-stats.demolab.com?user=walidabdel&theme=github-dark&hide_border=true"
-  referrerpolicy="no-referrer"
-/>
+![GitHub Streak](https://streak-stats.demolab.com?user=walidabdel&theme=dark)
 
 ---
 
